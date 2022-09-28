@@ -15,8 +15,11 @@ Example code tiny32 interface with SD card via SPI bus
 *** SPI pin between tiny32 to SD card ****
 
 MISO --> 19
+
 MOSI --> 23
+
 SCK  --> 18
+
 CS   --> 5 
 
 
