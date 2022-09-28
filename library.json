@@ -1,0 +1,17 @@
+{
+  "name": "tiny32_SDCard",
+  "keywords": "FreeRTOS, ESP32, frameworks",
+  "description": "tiny32_SDCard Library",
+  "homepage": "https://www.tenergyinnovation.co.th",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tenergyinnovation/tiny32_SDCard"
+  },
+  "version": "1.0.0",
+  "authors": {
+    "name": "tiny32_SDCard",
+    "url": "https://github.com/tenergyinnovation/"
+  },
+  "frameworks": "arduino",
+  "platforms": "esp32"
+}
